@@ -12,7 +12,7 @@
 
 ## INFORMATION
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
-- Find it on Telegram as [Force Subscriber](https://t.me/FSub_Bot)
+- Find it on Telegram as [FSUB-BOT](https://t.me/FSub_Bot)
 
 
 # ʜᴏsᴛ ɪᴛ ᴏɴ ʜᴇʀᴏᴋᴜ🚀
