@@ -10,7 +10,7 @@
         "Forcesub",
         "ForceSubBot"
     ],
-    "repository": "https://github.com/TeamDeeCode/ForceSub",
+    "repository": "https://github.com/TeamDeeCode/ForceSub-Bot",
     "website": "https://t.me/DeeCodeBots",
     "success_url": "https://t.me/DeCodeSupport",
     "env": {
