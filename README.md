@@ -15,10 +15,10 @@
 - Find it on Telegram as [Force Subscriber](https://t.me/FSub_Bot)
 
 
-## Deploy
+# ʜᴏsᴛ ɪᴛ ᴏɴ ʜᴇʀᴏᴋᴜ🚀
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/ForceSub-Bot"><img align="center" alt="heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+ 
 
-### Deploy To Heroku Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jigarvarma2005/ForceSub_Bot)
 
 ### Deploy in vps
 - Clone this repo
