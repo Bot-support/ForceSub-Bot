@@ -10,7 +10,7 @@ from pyrogram.errors.exceptions.bad_request_400 import (
 )
 from pyrogram.types import ChatPermissions, InlineKeyboardButton, InlineKeyboardMarkup
 
-from Config important SUDO_USERS
+from Config import SUDO_USERS
 from main import pbot
 from sql_helper import forceSubscribe_sql as sql
 
