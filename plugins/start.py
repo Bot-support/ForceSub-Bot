@@ -42,7 +42,7 @@ def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("𝐂𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/{update_channel}"
+                           InlineKeyboardButton("𝐂𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/DeeCodeBots"
                             ),
                            InlineKeyboardButton("𝐆𝚛𝚘𝚞𝚙", url="https://t.me/DeCodeSupport")
                       ],
