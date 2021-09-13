@@ -12,7 +12,7 @@ plugins = dict(
     ]
 )
 
-app = Client(
+pbot = Client(
      'ForceSubscribeRobot',
       bot_token = Config.BOT_TOKEN,
       api_id = Config.APP_ID,
@@ -20,4 +20,4 @@ app = Client(
       plugins = plugins
 )
 
-app.run()
+pbot.run()
